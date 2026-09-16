@@ -77,6 +77,10 @@ cd build
 
 Note: Step 4 is done this way because of the relative assest path (like *PressStart2P-Regular.ttf*)
 
+Note: If in the future there will be updates to this game (future plans will come true) it is needed to clear old cache with a command:
+```
+rm -rf build
+```
 
 ## 5. Future Plans
 
