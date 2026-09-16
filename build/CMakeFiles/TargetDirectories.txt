@@ -1,0 +1,3 @@
+/home/gab/Documents/projects/Cpp/Minesweeper/build/CMakeFiles/Minesweeper.dir
+/home/gab/Documents/projects/Cpp/Minesweeper/build/CMakeFiles/edit_cache.dir
+/home/gab/Documents/projects/Cpp/Minesweeper/build/CMakeFiles/rebuild_cache.dir
