@@ -2,16 +2,17 @@
 
 ## Table of Contents 
 
-1. [Overview](#overview)
-2. [What the game looks like](#what-the-game-looks-like)
-3. [How to Play](#how-to-play)
-4. [How to Run](#how-to-run)
+1. [Overview](#1-overview)
+2. [What the game looks like](#2-what-the-game-looks-like)
+3. [How to Play](#3-how-to-play)
+4. [How to Run](#4-how-to-run)
+5. [Future Plans](#5-future-plans) 
 
-## Overview
+## 1. Overview
 
 Minesweeper is a game where you have to reveal all correct tiles to win the game. Project utilizes SFML and is programmed in C++.
 
-## What the game looks like
+## 2. What the game looks like
 
 * After successfully running the program the menu window will appear that allows to choose difficulty of the game by pressing corresponding key on keyboard:
 
@@ -37,12 +38,14 @@ By left clicking the tile it will reveal itself allowing user to start the game.
 
 <img src="pngs/angry.png" width="100"/>
 
+* To play the game again user has to close the window and run it again, because there is no restart option.
 
-## How to play
+
+## 3. How to play
 
 The instructions on how to play Minesweeper can be found all over internet (for example [Wikipedia](https://en.wikipedia.org/wiki/Minesweeper_(video_game))).
 
-## How to Run 
+## 4. How to Run 
 
 ### On Linux
 
@@ -75,8 +78,8 @@ cd build
 Note: Step 4 is done this way because of the relative assest path (like *PressStart2P-Regular.ttf*)
 
 
+## 5. Future Plans
 
-
-
-
+* Restart option for the game.
+* Fixing cropped text in the start menu. 
 
