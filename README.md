@@ -82,6 +82,8 @@ Note: If in the future there will be updates to this game (future plans will com
 rm -rf build
 ```
 
+and repeat step 3. 
+
 ## 5. Future Plans
 
 * Restart option for the game.
