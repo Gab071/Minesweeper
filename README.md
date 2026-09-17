@@ -75,7 +75,7 @@ cd build
 ./Minesweeper
 ```
 
-Note: Step 4 is done this way because of the relative assest path (like *PressStart2P-Regular.ttf*)
+Note: Step 4 is done this way because of the relative assets path (like *PressStart2P-Regular.ttf*)
 
 Note: If in the future there will be updates to this game (future plans will come true) it is needed to clear old cache with a command:
 ```
@@ -92,5 +92,6 @@ touch scores.txt
 ## 5. Future Plans
 
 * Restart option for the game.
-* Fixing cropped text in the start menu. 
+* Fixing cropped text in the start menu.
+* Fixing scores.txt file building issues. 
 
