@@ -84,6 +84,11 @@ rm -rf build
 
 and repeat step 3. 
 
+Note: There also might be some problems with building file "scores.txt", to solve the problem create scores.txt file in build directory:
+```
+touch scores.txt
+```
+
 ## 5. Future Plans
 
 * Restart option for the game.
