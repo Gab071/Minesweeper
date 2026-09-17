@@ -1,6 +1,6 @@
 cmake_minimum_required (VERSION 3.1)
 
-# Tu wstawcie nazwę swojego projektu
+# Set name of the project
 project(Minesweeper)
 
 set(CMAKE_CXX_STANDARD 14)
@@ -21,7 +21,7 @@ if (CMAKE_CXX_COMPILER_ID STREQUAL "GNU" OR CMAKE_CXX_COMPILER_ID MATCHES "Clang
 endif()
 
 # Windows specific config
-# To możecie zmienić jeśli zainstalujecie SFML-a w innym miejscu
+# You can change it if you install SFML in different directory (or have different version of it)
 IF (WIN32)
     # Include local sfml cmake config
     set(SFML_DIR "C:/lib/SFML-2.6.1/lib/cmake/SFML")
